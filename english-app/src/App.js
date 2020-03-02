@@ -6,6 +6,7 @@ import {HashRouter, Route} from "react-router-dom";
 import Players from "./Players/Players";
 import Flags from "./Flags/Flags";
 import Body from "./Body/Body";
+import Footer from "./Footer/footer";
 
 
 function App (props) {
@@ -45,7 +46,7 @@ function App (props) {
 
             </div>
             <div className="footer">
-                Footer
+                <Footer/>
             </div>
 
 

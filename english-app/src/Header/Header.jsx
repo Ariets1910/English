@@ -2,6 +2,7 @@ import React from "react";
 import classes from "./Header.module.css"
 import {NavLink} from "react-router-dom";
 import flagGameLogo from "../images/flags/FlagGameLogo.jfif"
+import bodyLogo from "../images/Body/body-parts-logo.png"
 
 
 const Header = (props) => {
@@ -15,8 +16,9 @@ const Header = (props) => {
                     <NavLink to="Flags" activeClassName={classes.active}><img src={flagGameLogo} alt=""/>Flags</NavLink>
                 </div>
                 <div className={classes.item}>
-                    <NavLink to="Body" activeClassName={classes.active}><img src={flagGameLogo} alt=""/>Body</NavLink>
+                    <NavLink to="Body" activeClassName={classes.active}><img src={bodyLogo} alt=""/>Body</NavLink>
                 </div>
+
             </div>
         </div>
     )

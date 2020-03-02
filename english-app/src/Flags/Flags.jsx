@@ -30,7 +30,7 @@ const Flags = (props) => {
                     <img className={classes.img} src={props.games.flags.countries[i]} alt="flag"/>
                 </button>
                 <div className={classes.textBelow}>
-                    Наведи сюди мишку
+                    Point your mouse here
                     <div>
                         <img className={classes.arrow} src={arrow} alt="pidkazka"/>
                     </div>

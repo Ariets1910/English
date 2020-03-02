@@ -1,20 +1,37 @@
 .header {
     display: grid;
+    grid-template-columns: 1fr;
     grid-gap: 20px;
-    background-color: dimgrey;
+    background-color: purple;
 }
+
 .headline {
-font-size: 24px;
+    font-size: 24px;
     margin: 0;
     padding: 0;
 }
+
 .navBar img {
+    height: 40px;
     width: 40px;
 }
+
+.header .navBar {
+    display: flex;
+    padding: 10px;
+}
+
 .header .navBar .item a{
     display: flex;
     align-items: center;
     text-decoration: none;
+    align-items: center;
+
     justify-content: center;
+    padding-left: 20px;
+}
+.item {
+    flex: 1 1 auto;
+    margin: 10px;
 }
 

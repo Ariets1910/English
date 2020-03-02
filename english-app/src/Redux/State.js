@@ -121,7 +121,7 @@ import stomach from "../images/Body/stomach.jpg"
 import teeth from "../images/Body/teeth.jpg"
 import thumb from "../images/Body/thumb.jpg"
 import wrist from "../images/Body/wrist.jpg"
-import hart from "../images/Body/hart.jpg"
+import heart from "../images/Body/hart.jpg"
 import lungs from "../images/Body/lungs.jpg"
 import liver from "../images/Body/liver.jpg"
 import kidney from "../images/Body/kidney.jpg"
@@ -188,10 +188,10 @@ let state = {
         body: {
             id: [aye, brows, calf, cheek, chin, ears, elbow, fingernails, foream, forehead, hair, hands, head, heel,
                 indexfinger, knees, legs, lips, midlefinger, mouth, neck, nose, palm,
-                pelvis, pinkyringfinger, shoulder, stomach, teeth, thumb, wrist, hart, lungs, liver, kidney],
+                pelvis, pinkyringfinger, shoulder, stomach, teeth, thumb, wrist, heart, lungs, liver, kidney],
             name: ["aye", "brows", "calf", "cheek", "chin", "ears", "elbow", "fingernails", "foream", "forehead", "hair",
                 "hands", "head", "heel", "index finger", "knees", "legs", "lips", "midle finger", "mouth", "neck", "nose", "palm",
-                "pelvis", "ring finger", "shoulder", "stomach", "teeth", "thumb", "wrist", "hart", "lungs", "liver", "kidney"]
+                "pelvis", "ring finger", "shoulder", "stomach", "teeth", "thumb", "wrist", "heart", "lungs", "liver", "kidney"]
         },
     },
 
