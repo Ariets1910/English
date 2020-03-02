@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/English/static/css/main.ea95cfeb.chunk.css",
-    "main.js": "/English/static/js/main.901d86dd.chunk.js",
-    "main.js.map": "/English/static/js/main.901d86dd.chunk.js.map",
+    "main.css": "/English/static/css/main.2364f60f.chunk.css",
+    "main.js": "/English/static/js/main.112bf79c.chunk.js",
+    "main.js.map": "/English/static/js/main.112bf79c.chunk.js.map",
     "runtime-main.js": "/English/static/js/runtime-main.d87f45aa.js",
     "runtime-main.js.map": "/English/static/js/runtime-main.d87f45aa.js.map",
-    "static/js/2.b85006e0.chunk.js": "/English/static/js/2.b85006e0.chunk.js",
-    "static/js/2.b85006e0.chunk.js.map": "/English/static/js/2.b85006e0.chunk.js.map",
+    "static/js/2.11867b5f.chunk.js": "/English/static/js/2.11867b5f.chunk.js",
+    "static/js/2.11867b5f.chunk.js.map": "/English/static/js/2.11867b5f.chunk.js.map",
     "index.html": "/English/index.html",
-    "precache-manifest.6b408a75c0079fc2ac53039204b5643d.js": "/English/precache-manifest.6b408a75c0079fc2ac53039204b5643d.js",
+    "precache-manifest.18d4767db1fdbff3db7fe3606b11f07c.js": "/English/precache-manifest.18d4767db1fdbff3db7fe3606b11f07c.js",
     "service-worker.js": "/English/service-worker.js",
-    "static/css/main.ea95cfeb.chunk.css.map": "/English/static/css/main.ea95cfeb.chunk.css.map",
-    "static/js/2.b85006e0.chunk.js.LICENSE.txt": "/English/static/js/2.b85006e0.chunk.js.LICENSE.txt",
+    "static/css/main.2364f60f.chunk.css.map": "/English/static/css/main.2364f60f.chunk.css.map",
+    "static/js/2.11867b5f.chunk.js.LICENSE.txt": "/English/static/js/2.11867b5f.chunk.js.LICENSE.txt",
     "static/media/Albania.svg.png": "/English/static/media/Albania.svg.74401241.png",
     "static/media/Algeria.svg": "/English/static/media/Algeria.daeb5108.svg",
     "static/media/Angola.svg.png": "/English/static/media/Angola.svg.b2c27af1.png",
@@ -65,6 +65,7 @@
     "static/media/Wales.svg.png": "/English/static/media/Wales.svg.a7aa1c88.png",
     "static/media/Zimbabwe.svg.png": "/English/static/media/Zimbabwe.svg.c4f006b9.png",
     "static/media/aye.jpg": "/English/static/media/aye.b238d0b6.jpg",
+    "static/media/body-parts-logo.png": "/English/static/media/body-parts-logo.e89a8fa8.png",
     "static/media/brows.jpg": "/English/static/media/brows.c9a39d09.jpg",
     "static/media/calf.png": "/English/static/media/calf.0358d0b6.png",
     "static/media/cheek.jpg": "/English/static/media/cheek.e5b00446.jpg",
@@ -103,8 +104,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.d87f45aa.js",
-    "static/js/2.b85006e0.chunk.js",
-    "static/css/main.ea95cfeb.chunk.css",
-    "static/js/main.901d86dd.chunk.js"
+    "static/js/2.11867b5f.chunk.js",
+    "static/css/main.2364f60f.chunk.css",
+    "static/js/main.112bf79c.chunk.js"
   ]
 }
