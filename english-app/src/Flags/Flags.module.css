@@ -1,0 +1,97 @@
+.game {
+    display: grid;
+    /*grid-template-columns: 4fr 10fr;*/
+    background: darkslategrey;
+    width: 1fr;
+    height: auto;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+
+}
+.game img {
+    width: 640px;
+    height: 480px;
+
+}
+
+.game h2 {
+    font-size: 48px;
+    color: darkslategrey;
+    margin: 0;
+    padding: 0;
+    padding-bottom: 20px;
+    align-self: start;
+
+}
+
+.game h2:hover {
+    color: black;
+
+    /*margin-bottom: 20px;*/
+}
+.game h1 {
+    font-size: 64px;
+    margin: 10px;
+    margin-top: 0;
+
+}
+
+.textBelow img {
+    width: 48px;
+
+}
+
+.textBelow {
+    font-size: 24px;
+    padding-top: 10px;
+}
+
+.button {
+    background-color: darkslategrey;
+    border: 0;
+    padding: 0;
+}
+.button,
+button:active,
+button:focus {
+    outline: none;
+}
+.button:hover {
+    box-shadow: 0 14px 28px rgba(0,0,0,0.35), 0 10px 10px rgba(0,0,0,0.32);
+}
+.game .players {
+    margin-left: 50px;
+}
+.players {
+
+    height: auto;
+    font-size: 40px;
+    /*margin-left: 200px;*/
+    /*margin-right: 200px;*/
+
+    box-shadow: 0 14px 28px rgba(0,0,0,0.35), 0 10px 10px rgba(0,0,0,0.32);
+}
+.players button {
+    font-size:48px;
+    width: 170px;
+}
+.players button:hover {
+    background-color: gold;
+}
+.players input {
+    font-size: 48px;
+    text-align: center;
+    width: 170px;
+}
+
+
+.textBelow div img {
+    height: auto;
+}
+
+.game .flagField .countDown {
+    color: white;
+}
+

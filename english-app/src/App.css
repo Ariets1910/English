@@ -1,0 +1,10 @@
+.mainGrid {
+  display: grid;
+  align-items: center;
+  background-color: gold;
+  text-align: center;
+  grid-gap: 20px;
+  /*width: 1200px;*/
+  justify-content: center;
+
+}
