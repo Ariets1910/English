@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "57de10003e07446c7179a6091ca9b36f",
+    "revision": "02f3c91d7f1e4cfa76f0fe04992fd7f0",
     "url": "/English/index.html"
   },
   {
-    "revision": "67eb5f14c97cb0ee5654",
-    "url": "/English/static/css/main.d91bba10.chunk.css"
+    "revision": "daa2fdd82aa01e2f1dde",
+    "url": "/English/static/css/main.ea95cfeb.chunk.css"
   },
   {
-    "revision": "68d5733acefcba460c20",
-    "url": "/English/static/js/2.00496f39.chunk.js"
+    "revision": "81bff181a2115316655a",
+    "url": "/English/static/js/2.b85006e0.chunk.js"
   },
   {
     "revision": "f231859d6585c4cd5f80c344783ed269",
-    "url": "/English/static/js/2.00496f39.chunk.js.LICENSE.txt"
+    "url": "/English/static/js/2.b85006e0.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "67eb5f14c97cb0ee5654",
-    "url": "/English/static/js/main.a949bd97.chunk.js"
+    "revision": "daa2fdd82aa01e2f1dde",
+    "url": "/English/static/js/main.901d86dd.chunk.js"
   },
   {
     "revision": "6407a1cf5a2bf26f09c5",
@@ -232,15 +232,147 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/English/static/media/Zimbabwe.svg.c4f006b9.png"
   },
   {
+    "revision": "b238d0b6013bdeff344582ddc82d8f77",
+    "url": "/English/static/media/aye.b238d0b6.jpg"
+  },
+  {
+    "revision": "c9a39d0997664e557a199b627672a558",
+    "url": "/English/static/media/brows.c9a39d09.jpg"
+  },
+  {
+    "revision": "0358d0b6e5cb6f358d47c95757f742e0",
+    "url": "/English/static/media/calf.0358d0b6.png"
+  },
+  {
+    "revision": "e5b00446bef7d1a57affae1c5a86f147",
+    "url": "/English/static/media/cheek.e5b00446.jpg"
+  },
+  {
+    "revision": "fdedd8e44dc626a70af4575c90565b9d",
+    "url": "/English/static/media/chin.fdedd8e4.jpg"
+  },
+  {
+    "revision": "4e8a880a594769eb7a1b83340e5b6236",
+    "url": "/English/static/media/ears.4e8a880a.jpg"
+  },
+  {
+    "revision": "d8bf88280e6ab6cc861635e048252027",
+    "url": "/English/static/media/elbow.d8bf8828.jpg"
+  },
+  {
+    "revision": "30e185e62d9073f3bcdb2473eb414b65",
+    "url": "/English/static/media/fingernails.30e185e6.png"
+  },
+  {
+    "revision": "2bb5c808de50d0491d5c76abea9848a1",
+    "url": "/English/static/media/foream.2bb5c808.jpg"
+  },
+  {
+    "revision": "c9167747b097993311ee90ec1c8eb51d",
+    "url": "/English/static/media/forehead.c9167747.jpg"
+  },
+  {
+    "revision": "0eff16de6ec59492d423cf7bc0443514",
+    "url": "/English/static/media/hair.0eff16de.jpg"
+  },
+  {
+    "revision": "e5f53772ff4eb14e21501fc9c27f2708",
+    "url": "/English/static/media/hands.e5f53772.jpg"
+  },
+  {
+    "revision": "61e2c4095bc439c472af2cc1fd041a4a",
+    "url": "/English/static/media/hart.61e2c409.jpg"
+  },
+  {
+    "revision": "ef38da1bce41962bb21e8d68a635e225",
+    "url": "/English/static/media/head.ef38da1b.jpg"
+  },
+  {
+    "revision": "3abdecb2aced84f2c881efd7fd8a5f44",
+    "url": "/English/static/media/heel.3abdecb2.jpg"
+  },
+  {
+    "revision": "e2bded45e4586f622ca69db16f14e136",
+    "url": "/English/static/media/indexfinger.e2bded45.jpg"
+  },
+  {
+    "revision": "a06f85a932e78143f092dca2759f3b36",
+    "url": "/English/static/media/kidney.a06f85a9.jpg"
+  },
+  {
+    "revision": "8358126fc335125df7a5070a360c7e53",
+    "url": "/English/static/media/knees.8358126f.jpg"
+  },
+  {
+    "revision": "5ca49ec8b6c8aa43f3aec23f9dccc71d",
+    "url": "/English/static/media/legs.5ca49ec8.jpg"
+  },
+  {
+    "revision": "0c824c3fa7ce011717cc8df14a294511",
+    "url": "/English/static/media/lips.0c824c3f.jpg"
+  },
+  {
+    "revision": "f61c09d393013e1ca6e06c216f7de397",
+    "url": "/English/static/media/liver.f61c09d3.jpg"
+  },
+  {
+    "revision": "4ab85f31f843b5a5bcc708811f05cf69",
+    "url": "/English/static/media/midlefinger.4ab85f31.jpg"
+  },
+  {
+    "revision": "38076e5a77982ef983ad244cc8bd88e7",
+    "url": "/English/static/media/mouth.38076e5a.png"
+  },
+  {
+    "revision": "44994afb2c00b72254178ed4763cfd99",
+    "url": "/English/static/media/neck.44994afb.jpg"
+  },
+  {
     "revision": "178ac4754fd9fd24adbe17589f6dbfdf",
     "url": "/English/static/media/newkaledonia.svg.178ac475.png"
+  },
+  {
+    "revision": "c11a2adb1d048538e32735bfca08bd55",
+    "url": "/English/static/media/nose.c11a2adb.jpg"
+  },
+  {
+    "revision": "bfcc6c466f9bdbf56396dd7c0d238e60",
+    "url": "/English/static/media/palm.bfcc6c46.jpg"
+  },
+  {
+    "revision": "9f783bf78bb6f34faa77ac90f5605ff6",
+    "url": "/English/static/media/pelvis.9f783bf7.jpg"
+  },
+  {
+    "revision": "5749dbdc4a886c0e1abd6fa51dbaeb48",
+    "url": "/English/static/media/ringfinger.5749dbdc.jpg"
   },
   {
     "revision": "17612250e6166377bdee6bc91ff40b72",
     "url": "/English/static/media/russia.17612250.svg"
   },
   {
+    "revision": "9a440be48b36140a65dca2c472f02c93",
+    "url": "/English/static/media/shoulder.9a440be4.jpg"
+  },
+  {
+    "revision": "38108ec47e245831972b028382c84a70",
+    "url": "/English/static/media/stomach.38108ec4.jpg"
+  },
+  {
+    "revision": "12c1887eceb3441b8415767455230736",
+    "url": "/English/static/media/teeth.12c1887e.jpg"
+  },
+  {
+    "revision": "386aa5a79047525229dfea63dec1a5e8",
+    "url": "/English/static/media/thumb.386aa5a7.jpg"
+  },
+  {
     "revision": "aefba3fef673e14305b112b0e82805fe",
     "url": "/English/static/media/usa.aefba3fe.svg"
+  },
+  {
+    "revision": "a4fcc2d24426d4898a9ed3626b86fbb3",
+    "url": "/English/static/media/wrist.a4fcc2d2.jpg"
   }
 ]);
