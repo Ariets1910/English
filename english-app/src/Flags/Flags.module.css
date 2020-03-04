@@ -1,8 +1,8 @@
 .game {
     display: grid;
-    /*grid-template-columns: 4fr 10fr;*/
+    grid-template-columns: 1fr;
     background: darkslategrey;
-    width: 1fr;
+
     height: auto;
     text-align: center;
     align-items: center;
@@ -91,7 +91,7 @@ button:focus {
     height: auto;
 }
 
-.game .flagField .countDown {
-    color: white;
-}
 
+.game .flagField .textBelow .voice h2 button{
+    width: 80px;
+}

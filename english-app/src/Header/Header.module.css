@@ -3,12 +3,14 @@
     grid-template-columns: 1fr;
     grid-gap: 20px;
     background-color: purple;
+
 }
 
 .headline {
-    font-size: 24px;
+    font-size: 36px;
     margin: 0;
     padding: 0;
+    text-align: center;
 }
 
 .navBar img {
@@ -19,6 +21,12 @@
 .header .navBar {
     display: flex;
     padding: 10px;
+
+}
+.header .navBar a{
+    color: white;
+    font-weight: bold;
+
 }
 
 .header .navBar .item a{
@@ -26,12 +34,16 @@
     align-items: center;
     text-decoration: none;
     align-items: center;
-
     justify-content: center;
     padding-left: 20px;
+    font-size: 48px;
 }
 .item {
     flex: 1 1 auto;
     margin: 10px;
+}
+
+.header .headline h1 .voice button{
+    width: 80px;
 }
 

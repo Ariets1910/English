@@ -189,7 +189,7 @@ let state = {
             id: [aye, brows, calf, cheek, chin, ears, elbow, fingernails, foream, forehead, hair, hands, head, heel,
                 indexfinger, knees, legs, lips, midlefinger, mouth, neck, nose, palm,
                 pelvis, pinkyringfinger, shoulder, stomach, teeth, thumb, wrist, heart, lungs, liver, kidney],
-            name: ["aye", "brows", "calf", "cheek", "chin", "ears", "elbow", "fingernails", "foream", "forehead", "hair",
+            name: ["eye", "brows", "calf", "cheek", "chin", "ears", "elbow", "fingernails", "foream", "forehead", "hair",
                 "hands", "head", "heel", "index finger", "knees", "legs", "lips", "midle finger", "mouth", "neck", "nose", "palm",
                 "pelvis", "ring finger", "shoulder", "stomach", "teeth", "thumb", "wrist", "heart", "lungs", "liver", "kidney"]
         },

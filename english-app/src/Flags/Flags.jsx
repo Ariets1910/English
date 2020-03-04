@@ -2,7 +2,24 @@ import React from "react";
 import classes from "./Flags.module.css"
 import arrow from "../../src/images/arrow-down-4-48.png"
 import state from "../Redux/State";
+import Speech from "react-speech";
 
+document.getElementById('node')
+
+// const style = {
+//     play: {
+//         button: {
+//             width: '48',
+//             height: '48',
+//             cursor: 'pointer',
+//             pointerEvents: 'none',
+//             outline: 'none',
+//             backgroundColor: 'yellow',
+//             border: 'solid 1px rgba(255,255,255,1)',
+//             borderRadius: 6
+//         },
+//     }
+// };
 
 const Flags = (props) => {
 
@@ -11,7 +28,8 @@ const Flags = (props) => {
     let nextFlag = () => {
         state.games.functions.changeFlag()
     };
-    debugger
+
+
     return (
 
 
@@ -34,7 +52,13 @@ const Flags = (props) => {
                     <div>
                         <img className={classes.arrow} src={arrow} alt="pidkazka"/>
                     </div>
-                    <h2>{props.games.list[i]}</h2>
+                    <div className={classes.voice}>
+                        <h2> {props.games.list[i]} <Speech
+                            // styles={style}
+                            text={props.games.list[i]}
+                            voice="Google UK English Female"/></h2>
+                    </div>
+
 
                 </div>
             </div>

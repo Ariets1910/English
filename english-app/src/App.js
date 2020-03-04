@@ -10,7 +10,7 @@ import Footer from "./Footer/footer";
 
 
 function App (props) {
-    debugger
+
 
     return (
         <HashRouter>

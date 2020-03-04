@@ -2,4 +2,18 @@
     display: grid;
     grid-template-columns: 1fr 2fr 2fr;
     background-color: dimgrey;
+    font-size: 48px;
+    padding: 20px;
+}
+.playersMainField .player button{
+    font-size: 48px;
+}
+.playersMainField .player input{
+    font-size: 48px;
+    text-align: center;
+    width: 247px;
+}
+
+.playersMainField .player {
+    padding-left: 50px;
 }
