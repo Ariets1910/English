@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/English/static/css/main.3273b00a.chunk.css",
+    "main.css": "/English/static/css/main.ca7e42b7.chunk.css",
     "main.js": "/English/static/js/main.3c81a3d9.chunk.js",
     "main.js.map": "/English/static/js/main.3c81a3d9.chunk.js.map",
     "runtime-main.js": "/English/static/js/runtime-main.d87f45aa.js",
@@ -8,9 +8,9 @@
     "static/js/2.2d951704.chunk.js": "/English/static/js/2.2d951704.chunk.js",
     "static/js/2.2d951704.chunk.js.map": "/English/static/js/2.2d951704.chunk.js.map",
     "index.html": "/English/index.html",
-    "precache-manifest.e70ba3ebafc73af5684f3c55fb7962c5.js": "/English/precache-manifest.e70ba3ebafc73af5684f3c55fb7962c5.js",
+    "precache-manifest.5a1eb733f2dc8d56616ecdf6c870ec88.js": "/English/precache-manifest.5a1eb733f2dc8d56616ecdf6c870ec88.js",
     "service-worker.js": "/English/service-worker.js",
-    "static/css/main.3273b00a.chunk.css.map": "/English/static/css/main.3273b00a.chunk.css.map",
+    "static/css/main.ca7e42b7.chunk.css.map": "/English/static/css/main.ca7e42b7.chunk.css.map",
     "static/js/2.2d951704.chunk.js.LICENSE.txt": "/English/static/js/2.2d951704.chunk.js.LICENSE.txt",
     "static/media/Albania.svg.png": "/English/static/media/Albania.svg.74401241.png",
     "static/media/Algeria.svg": "/English/static/media/Algeria.daeb5108.svg",
@@ -105,7 +105,7 @@
   "entrypoints": [
     "static/js/runtime-main.d87f45aa.js",
     "static/js/2.2d951704.chunk.js",
-    "static/css/main.3273b00a.chunk.css",
+    "static/css/main.ca7e42b7.chunk.css",
     "static/js/main.3c81a3d9.chunk.js"
   ]
 }
